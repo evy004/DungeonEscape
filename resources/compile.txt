@@ -1,0 +1,1 @@
+g++ -std=c++17 RunGame.cpp game.cpp Map.cpp menu.cpp npc.cpp Player.cpp puzzles.cpp monster.cpp dungeon.cpp roomSpace.cpp

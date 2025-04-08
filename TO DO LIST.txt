@@ -1,0 +1,18 @@
+TO DO LIST:
+- fix monsters and dungeons classes ////// Done
+- PLS LOOK THROUGH GITHUB AND IMPLEMENT USAGE OF MONSTERS/DUNGEONS
+- add a counter for monsters defeated and implement into menu.cpp
+- add weapon selection and breaking (LINE 304 GAME.CPP)
+- create the "Pick a Fight!" (LINE 289 MENU.CPP)
+- summon monster (LINE 300 MENU.CPP)
+- Monster Mechanic in RoomSpace openDoor function (LINE 106 & 124 ROOMSPACE.CPP)
+- Summon Monster for Hostile NPC (LINE 177 PUZZLES.CPP)
+- CALL THE SORTING LEADERBOARD IN PLAYERMENU
+
+- change all cin to getline
+======extra credit======
+2. persistent scoreboard
+3. resurrection
+
+
+
